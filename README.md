@@ -1,2 +1,2 @@
-# celestial_bodies_database
-Postgres project
+# World Cup PostgreSQL Project 
+Project 1/5 Relational Database
